@@ -31,13 +31,13 @@ O desenvolvimento segue três etapas:
 
 O Modelo Entidade-Relacionamento representa a estrutura de dados da ImoUni e as regras de negócio identificadas.
 
-![Diagrama do modelo conceptual](docs/img/modelo-conceptual.png)
+(encontram-se no relatorio)
 
 ### Modelo relacional
 
 O modelo relacional é composto por **22 tabelas**. Para garantir a normalização, as relações muitos-para-muitos (N:N) foram decompostas em relações um-para-muitos (1:N) através de **tabelas associativas** (`AgenteImovel`, `ClienteAgente` e `ClienteTipo`).
 
-![Diagrama do modelo relacional](docs/img/modelo-relacional.png)
+(encontram-se no relatorio)
 
 Principais grupos de tabelas:
 
