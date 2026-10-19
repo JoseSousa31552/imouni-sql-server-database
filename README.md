@@ -136,7 +136,7 @@ O ficheiro `03_queries.sql` reúne **20 consultas** organizadas em seis áreas.
 | 1 | Rui Martins | 19365.00 |
 | 3 | Tiago Pinto | 9900.00 |
 
-O relatório em [`docs/relatorio.pdf`](docs/relatorio.pdf) inclui os resultados de todas as consultas.
+O relatório em [`docs/relatorio.pdf`](relatorio.pdf) inclui os resultados de todas as consultas.
 
 ---
 
